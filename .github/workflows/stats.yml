@@ -5,17 +5,29 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Update coding stats
         run: |
-          echo "Stats update workflow is running."
+          echo "Updating coding profile information..."
           echo "LeetCode: Codex_Anurag"
           echo "CodeChef: anurags87"
           echo "Codeforces: anurag_01x"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "Update coding stats"
+          git push
