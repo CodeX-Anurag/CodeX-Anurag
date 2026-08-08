@@ -141,6 +141,36 @@ Greedy Algorithms
    ↓
 Dynamic Programming
 ```
+# 🧠 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Codex_Anurag/">
+<img src="https://img.shields.io/badge/LeetCode-Codex__Anurag-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/anurags87">
+<img src="https://img.shields.io/badge/CodeChef-anurags87-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/anurag_01x">
+<img src="https://img.shields.io/badge/Codeforces-anurag__01x-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
+### 💻 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and competitive programming to improve my problem-solving and algorithmic thinking.
+
+| Platform      | Profile                                                 |
+| ------------- | ------------------------------------------------------- |
+| 🟠 LeetCode   | [Codex_Anurag](https://leetcode.com/u/Codex_Anurag/)    |
+| 🟤 CodeChef   | [anurags87](https://www.codechef.com/users/anurags87)   |
+| 🔵 Codeforces | [anurag_01x](https://codeforces.com/profile/anurag_01x) |
+
+**Main Focus:**
+`Arrays` `Strings` `Searching` `Sorting` `Linked Lists` `Stacks` `Queues` `Greedy` `Dynamic Programming` `Problem Solving`
 
 ---
 
