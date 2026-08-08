@@ -1,0 +1,21 @@
+name: Update Coding Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          echo "Stats update workflow is running."
+          echo "LeetCode: Codex_Anurag"
+          echo "CodeChef: anurags87"
+          echo "Codeforces: anurag_01x"
