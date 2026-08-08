@@ -159,30 +159,28 @@ Dynamic Programming
 
 </p>
 
-### 🟠 LeetCode
+## 🟠 LeetCode
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Codex_Anurag?theme=dark&font=Karma&ext=heatmap"/>
-
+  <img src="https://leetcard.jacoblin.cool/Codex_Anurag?theme=dark&ext=heatmap"/>
 </p>
 
-### 🔵 Codeforces
+## 🔵 Codeforces
 
 <p align="center">
 
 <a href="https://codeforces.com/profile/anurag_01x">
-View my Codeforces profile →
+View my Codeforces Profile →
 </a>
 
 </p>
 
-### 🟤 CodeChef
+## 🟤 CodeChef
 
 <p align="center">
 
 <a href="https://www.codechef.com/users/anurags87">
-View my CodeChef profile →
+View my CodeChef Profile →
 </a>
 
 </p>
@@ -196,17 +194,13 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 **Current Focus**
 
 `Arrays` `Strings` `Searching` `Sorting` `Linked Lists` `Stacks` `Queues` `Greedy` `Dynamic Programming`
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -214,9 +208,7 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=CodeX-Anurag&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=CodeX-Anurag&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -224,11 +216,8 @@ I regularly practice **Data Structures & Algorithms** and competitive programmin
 # 🐍 My Contributions
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
-
 ---
 
 # 📈 Currently Learning
