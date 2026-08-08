@@ -5,7 +5,7 @@
 I'm a Computer Science Engineering student passionate about **Software Development, Data Structures & Algorithms, AI/ML, IoT, and Full-Stack Development.**
 
 * 🔭 Currently working on **AI + IoT projects**
-* 🌱 Currently learning **DSA, JavaScript, MERN & AI/ML**
+* 🌱 Currently learning **DSA, MERN & AI/ML**
 * 💡 Interested in **Software Development & Problem Solving**
 * 🎯 Goal: Become a strong **Software Engineer**
 * ⚡ I enjoy building projects and solving coding problems
@@ -159,18 +159,43 @@ Dynamic Programming
 
 </p>
 
+### 🟠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Codex_Anurag?theme=dark&font=Karma&ext=heatmap"/>
+
+</p>
+
+### 🔵 Codeforces
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/anurag_01x">
+View my Codeforces profile →
+</a>
+
+</p>
+
+### 🟤 CodeChef
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/anurags87">
+View my CodeChef profile →
+</a>
+
+</p>
+
+---
+
 ### 💻 Problem Solving
 
 I regularly practice **Data Structures & Algorithms** and competitive programming to improve my problem-solving and algorithmic thinking.
 
-| Platform      | Profile                                                 |
-| ------------- | ------------------------------------------------------- |
-| 🟠 LeetCode   | [Codex_Anurag](https://leetcode.com/u/Codex_Anurag/)    |
-| 🟤 CodeChef   | [anurags87](https://www.codechef.com/users/anurags87)   |
-| 🔵 Codeforces | [anurag_01x](https://codeforces.com/profile/anurag_01x) |
+**Current Focus**
 
-**Main Focus:**
-`Arrays` `Strings` `Searching` `Sorting` `Linked Lists` `Stacks` `Queues` `Greedy` `Dynamic Programming` `Problem Solving`
+`Arrays` `Strings` `Searching` `Sorting` `Linked Lists` `Stacks` `Queues` `Greedy` `Dynamic Programming`
 
 ---
 
