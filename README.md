@@ -1,9 +1,9 @@
 <p align="center">
-  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=ANURAG%20SONI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20%7C%20Software%20Developer%20%7C%20AI%20%2B%20IoT%20Builder&descAlignY=58&descSize=20"/>
+  <img alt="Header banner" width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=ANURAG%20SONI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20IoT%20%7C%20MERN%20%7C%20DSA&descAlignY=58&descSize=16"/>
 </p>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%2B+IoT+systems+that+solve+real+problems;Currently+leveling+up+in+DSA+%26+MERN;Always+shipping+something+new;Open+to+collabs+%26+internships&font=Fira%20Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22"/>
+  <img alt="Typing SVG" width="100%" style="max-width:600px" src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%2B+IoT+systems+that+solve+real+problems;Currently+leveling+up+in+DSA+%26+MERN;Always+shipping+something+new;Open+to+collabs+%26+internships&font=Fira%20Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22"/>
 </p>
 
 <p align="center">
@@ -80,16 +80,16 @@ Arrays → Strings → Searching → Sorting → Linked Lists
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CodeX-Anurag&theme=tokyonight&hide_border=true"/>
+  <img alt="GitHub Streak Stats" width="100%" style="max-width:700px" src="https://streak-stats.demolab.com/?user=CodeX-Anurag&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX-Anurag&theme=react-dark&hide_border=true&area=true"/>
+  <img alt="GitHub Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeX-Anurag&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@ Arrays → Strings → Searching → Sorting → Linked Lists
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeX-Anurag&theme=darkhub&no-frame=true&row=1&column=7"/>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CodeX-Anurag&theme=onedark&no-frame=true&margin-w=8&row=1&column=7"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ Arrays → Strings → Searching → Sorting → Linked Lists
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution Snake" width="100%" src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 > ⚠️ This image only appears **after** you add the Snake GitHub Action (see setup steps in our earlier conversation, or ask me to resend them).
@@ -126,4 +126,4 @@ Arrays → Strings → Searching → Sorting → Linked Lists
 
 <p align="center"><i>"Code. Learn. Build. Repeat."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img alt="Footer banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
