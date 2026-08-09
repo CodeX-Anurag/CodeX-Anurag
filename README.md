@@ -1,9 +1,9 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=ANURAG%20SONI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20|%20Software%20Developer%20|%20AI%20%2B%20IoT%20Builder&descAlignY=58&descSize=20"/>
-</h1>
+<p align="center">
+  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=ANURAG%20SONI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=B.Tech%20CSE%20%7C%20Software%20Developer%20%7C%20AI%20%2B%20IoT%20Builder&descAlignY=58&descSize=20"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%2B+IoT+systems+that+solve+real+problems;Currently+leveling+up+in+DSA+%26+MERN;Always+shipping+something+new;Open+to+collabs+%26+internships&font=Fira%20Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22"/>
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Building+AI+%2B+IoT+systems+that+solve+real+problems;Currently+leveling+up+in+DSA+%26+MERN;Always+shipping+something+new;Open+to+collabs+%26+internships&font=Fira%20Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22"/>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Arrays → Strings → Searching → Sorting → Linked Lists
   <img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> ⚠️ This image only appears **after** you add the Snake GitHub Action — see setup steps below.
+> ⚠️ This image only appears **after** you add the Snake GitHub Action (see setup steps in our earlier conversation, or ask me to resend them).
 
 ---
 
