@@ -1,8 +1,16 @@
-<h1 align="center">Hi there, I'm Anurag Soni 👋</h1>
+<h1 align="center">
+  Hi there, I'm Anurag Soni
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="waving hand" />
+</h1>
 <h3 align="center">B.Tech CSE Student • Software Developer • DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+AI+%2B+IoT+projects;Learning+MERN+%26+System+Design;Solving+DSA+problems+daily;Open+to+SWE+Internships" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeX-Anurag&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/CodeX-Anurag?label=Followers&style=flat&color=2F80ED" alt="Followers" />
 </p>
 
 <p align="center">
@@ -111,16 +119,23 @@ Arrays → Strings → Searching → Sorting → Linked Lists → Stacks & Queue
 ```
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Codex_Anurag?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Codex_Anurag?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" width="90%" />
 </p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Codex_Anurag&theme=dark" alt="LeetCode Stats Backup" width="48%" />
+  <img src="https://cp-badge.vercel.app/codeforces/anurag_01x?theme=dark" alt="Codeforces Stats" width="48%" />
+</p>
+
+> 💡 Card not loading? These are third-party services (LeetCode/Codeforces don't offer official badges) and occasionally rate-limit or go down. Reload the page after a minute, or check your live stats directly on <a href="https://leetcode.com/u/Codex_Anurag/">LeetCode</a> / <a href="https://codeforces.com/profile/anurag_01x">Codeforces</a>.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CodeX-Anurag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CodeX-Anurag&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -128,8 +143,24 @@ Arrays → Strings → Searching → Sorting → Linked Lists → Stacks & Queue
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/CodeX-Anurag/CodeX-Anurag/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
 </p>
+
+<p align="center"><i>Snake animation runs automatically via the <code>github-contribution-grid-snake</code> Action on push to <code>main</code> — see setup note below if it's not showing yet.</i></p>
+
+<details>
+<summary><b>⚙️ How to enable the snake animation (if it's missing)</b></summary>
+
+<br>
+
+The animated snake needs a GitHub Action running in this repo to generate the SVG on an `output` branch. If yours isn't showing:
+
+1. In `CodeX-Anurag/CodeX-Anurag`, go to **Actions → New workflow → set up a workflow yourself**
+2. Use the workflow from [`Platane/snk`](https://github.com/Platane/snk) (the standard snake-generator action)
+3. Commit it as `.github/workflows/snake.yml` — it runs on a schedule and on push, and writes the SVG to the `output` branch
+4. Once it runs once, the image link above will start rendering
+
+</details>
 
 ---
 
